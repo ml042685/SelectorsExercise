@@ -60,3 +60,8 @@ input:checked {
 label {
     text-transform: uppercase;
 }
+
+#special:first-letter {
+    color:green;
+    font-size: 100px;
+}
