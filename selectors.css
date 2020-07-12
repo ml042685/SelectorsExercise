@@ -30,3 +30,7 @@ input {
 #special {
     border: 2px solid rgb(0, 100, 200);
 }
+
+div p {
+    font-size: 25px;
+}
