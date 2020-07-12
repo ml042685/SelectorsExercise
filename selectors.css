@@ -65,3 +65,7 @@ label {
     color:green;
     font-size: 100px;
 }
+
+h1:hover {
+color:blue;
+} 
