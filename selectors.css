@@ -19,4 +19,9 @@ p {
     background: yellow;
 }
 
+input {
+    border: 3px solid red;
+}
+
+
 
