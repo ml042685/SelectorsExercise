@@ -34,3 +34,7 @@ input {
 div p {
     font-size: 25px;
 }
+
+input[type="text"] {
+    background: gray;
+}
