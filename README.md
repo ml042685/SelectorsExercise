@@ -12,4 +12,4 @@ Beginners guide to CSS. Learning how to link CSS page to HTML. Also contains sty
 
 
 ## Link to work
-This site was built using [GitHub Pages]().
+This site was built using [GitHub Pages](https://ml042685.github.io/SelectorsExercise/index.html).
