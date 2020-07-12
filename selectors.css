@@ -1,3 +1,9 @@
+/* Give the <body> element a background of #bdc3c */
 body {
     background-color: #bdc3c7;
 }
+
+h1 {
+    color: #9b59b6;
+}
+
